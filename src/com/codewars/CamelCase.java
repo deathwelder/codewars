@@ -11,8 +11,6 @@ public class CamelCase {
                 sbd.deleteCharAt(i);
             }
         }
-        String sbString = sbd.toString();
-
-        return sbString;
+        return sbd.toString();
     }
 }
