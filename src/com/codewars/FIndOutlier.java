@@ -18,7 +18,7 @@ public class FIndOutlier {
 
             if (even < odd) {
                 return evenInMass;
-            } else return oddInMass;
+            } else return oddInMass; //gpihe ip[0er8yg-p0e8y gp90er8y g
         }
     }
 
